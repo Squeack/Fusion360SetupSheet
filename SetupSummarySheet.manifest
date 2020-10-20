@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Ian Shatwell",
+	"description":	{
+		"":	"Create a basic multi-post setup sheet"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
